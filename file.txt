@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Change from main branch
 change from main branch
+=======
+change from branch 1
+>>>>>>> branch1
